@@ -1,7 +1,9 @@
 # Customer Shopping Mall at Istanbul Using RFM (Base Demographic)
 
 Dataset: Customer Shopping – Istanbul, Turkey
+
 Link Dataset: https://www.kaggle.com/code/mahmoudosama10/customer-shopping-analysis/input
+
 Objective:
 To analyze customer shopping behavior in malls across Istanbul, Turkey, and segment them using RFM (Recency, Frequency, Monetary) analysis based on demographic attributes (e.g., age, gender, and payment method). This enables more targeted marketing and customer relationship strategies.
 
@@ -51,7 +53,8 @@ c. Engage Cluster 4 with community events or collaborative campaigns (e.g., gran
 a. Continuously monitor movement between clusters—especially customers in Cluster 2 showing signs of rising value.
 b. Implement a customer churn prediction pipeline for Clusters 1 and 3 to prevent value loss.
 
-- THANK YOU -
+
+                                 - THANK YOU -
 
 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/ferdypput)
 
