@@ -1,28 +1,33 @@
 # Customer Shopping Mall at Istanbul Using RFM (Base Demographic)
 
 Dataset: Customer Shopping – Istanbul, Turkey
+Link Dataset: https://www.kaggle.com/code/mahmoudosama10/customer-shopping-analysis/input
 Objective:
 To analyze customer shopping behavior in malls across Istanbul, Turkey, and segment them using RFM (Recency, Frequency, Monetary) analysis based on demographic attributes (e.g., age, gender, and payment method). This enables more targeted marketing and customer relationship strategies.
 
 # Results:
 Cluster 1 – High Value Customers
+
 a. High spending behavior
 b. Generally adults or teenagers
 c. Prefer modern payment methods (debit/credit cards, cash)
 ✅ Best candidates for exclusive loyalty programs and high-tier memberships.
 
 Cluster 2 – Growing Customers
+
 a. Moderate spending, young to adult age group
 b. Mixed payment methods
 c. Some younger customers spend significantly
 ✅ Potential to be nurtured into high-value customers through incentives and personalized engagement.
 
 Cluster 3 – Casual Spenders
+
 a. Mature customers with decent spending
 b. Use modern payment methods
 ✅ Good target for limited-time premium offers; may need nudges for consistent loyalty.
 
 Cluster 4 – Low-Spending Customers
+
 a. Very minimal spending
 b. Rely mostly on cash payments
 c. Age group: very young or elderly
@@ -46,7 +51,7 @@ c. Engage Cluster 4 with community events or collaborative campaigns (e.g., gran
 a. Continuously monitor movement between clusters—especially customers in Cluster 2 showing signs of rising value.
 b. Implement a customer churn prediction pipeline for Clusters 1 and 3 to prevent value loss.
 
-                                           - THANK YOU-
+- THANK YOU -
 
 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/ferdypput)
 
