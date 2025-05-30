@@ -54,7 +54,7 @@ a. Continuously monitor movement between clusters—especially customers in Clus
 b. Implement a customer churn prediction pipeline for Clusters 1 and 3 to prevent value loss.
 
 
-                                 - THANK YOU -
+                                                                     - THANK YOU -
 
 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/ferdypput)
 
