@@ -53,6 +53,9 @@ c. Engage Cluster 4 with community events or collaborative campaigns (e.g., gran
 a. Continuously monitor movement between clusters—especially customers in Cluster 2 showing signs of rising value.
 b. Implement a customer churn prediction pipeline for Clusters 1 and 3 to prevent value loss.
 
+# Full Dashboard (Documentation)
+![image](https://github.com/user-attachments/assets/ace47257-1537-49fa-81a8-e28731e640c0)
+
 
                                                    - THANK YOU -
 
